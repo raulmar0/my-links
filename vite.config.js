@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [svelte()],
 
   // for gh pages
-  base: '/my-links/'
+  // base: '/my-links/'
 })
