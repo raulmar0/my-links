@@ -20,6 +20,10 @@ export const AppConfig = {
       "title": "Mail",
       "url": "mailto:hello@raulmar.com"
     },
+    {
+      "title": "Dance App UI",
+      "url": "https://raulmar0.github.io/567-dance/"
+    },
   ],
   profile:{
     "image": "https://raulmarfiles.blob.core.windows.net/my-links/mont-saint-michel.jpg",
