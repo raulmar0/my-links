@@ -7,7 +7,7 @@ import SkullNft from './assets/skullnft.webp'
 
 <div class="contenedor">
   <main class="max-w-xs">
-    <div class="shadow-2xl w-8/12 mx-auto my-5">
+    <div class="shadoww w-8/12 mx-auto my-5">
       <img class="" src={SkullNft} alt={AppConfig.profile.alt}>
       <h1 class="bg-white font-bold text-center p-2">{AppConfig.profile.title}</h1>
     </div>
@@ -17,5 +17,7 @@ import SkullNft from './assets/skullnft.webp'
 </div>
 
 <style>
-
+  .shadoww {
+    box-shadow: 1px 1px 10px #000;
+  }
 </style>
