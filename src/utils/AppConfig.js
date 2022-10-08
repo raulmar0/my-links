@@ -21,7 +21,7 @@ export const AppConfig = {
       "url": "mailto:hello@raulmar.com"
     },
     {
-      "title": "Dance App UI",
+      "title": "567 dance!",
       "url": "https://raulmar0.github.io/567-dance/"
     },
   ],
