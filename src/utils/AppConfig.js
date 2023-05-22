@@ -10,7 +10,7 @@ export const AppConfig = {
     },
     {
       "title": "Blog",
-      "url": "https://raulmar.com"
+      "url": "https://raulmar.com/blog"
     },
     {
       "title": "Github",
